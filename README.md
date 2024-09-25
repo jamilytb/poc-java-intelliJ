@@ -1,6 +1,6 @@
 # Primeira POC Java
 
-Este é um projeto simples em Java desenvolvido como uma prova de conceito (POC) para demonstrar a leitura de dados do usuário via console.
+Este é um projeto simples em Java desenvolvido como uma prova de conceito (POC) para demonstrar a declaração de variáveis, condicional for, condicional while e leitura de dados do usuário via console.
 
 ## Funcionalidades
 
