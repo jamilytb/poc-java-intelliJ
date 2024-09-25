@@ -15,8 +15,3 @@ Este é um projeto simples em Java desenvolvido como uma prova de conceito (POC)
 - IntelliJ IDEA
 - Git
 
-## Como rodar o projeto
-
-1. Clone este repositório:
-   
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
